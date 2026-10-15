@@ -1,0 +1,6 @@
+blocked = [
+ [0,0,0],
+ [0,1,0],
+ [0,0,0]
+]
+print(uniquePaths(3,3,blocked))  # Output: 2
