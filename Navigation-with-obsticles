@@ -1,0 +1,4 @@
+# Robot Grid Navigation with Obstacles
+
+Statement:  
+A robot is placed at the top-left corner of an  𝑚 × 𝑛 grid. It can move right or down, but some cells are blocked. Find the number of unique paths to reach the bottom-right corner.
